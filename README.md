@@ -14,6 +14,11 @@ The `Request` and `Response` classes provide a clear and concise interface with 
 
 To use these classes in your project, simply include them in your PSR-4 autoloader or directly import them into your PHP file.
 
+```bash 
+composer require boubacamara/ganega-http
+
+```
+
 ## Usage Examples
 
 ### Request Class
