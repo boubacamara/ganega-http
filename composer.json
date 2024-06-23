@@ -1,5 +1,5 @@
 {
-    "name": "boubacamara/ganega-http",
+    "name": "ganega/ganega-http",
     "type": "library",
     "license": "MIT",
     "description": "Provides simple and intuitive classes for handling HTTP requests and responses in PHP applications. The Request class encapsulates HTTP request data, making it easy to manage and access parameters, body, session, cookies, and server information. The Response class simplifies the creation and management of HTTP responses, allowing you to set content, status codes, and headers effortlessly.",
