@@ -1,4 +1,4 @@
-# Ganega\Http\Request
+# Ganega\Http
 
 The `Request` and `Response` classes provide simple and intuitive interfaces for handling HTTP requests and responses in your PHP application. They encapsulate request data and HTTP responses, making their manipulation and management easier.
 
